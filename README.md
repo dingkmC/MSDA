@@ -16,3 +16,6 @@ All code is provided by jupyter notebook with excuted records.
   
 ##### 2. Comparision of DANN. (epoch of 100)
 ![](images/dann.png)
+##### 3. Visulization of proposed method.  
+Demision Decomposition by both S-tne and PCA into two demension space.
+![](images/visulization.png)
