@@ -13,3 +13,6 @@ All code is provided by jupyter notebook with excuted records.
   
 ##### 1. The Classfication Accuracy, the Domain Accuracy and Loss.(epoch of 1000)
 ![](images/48,1000,p_acc.png)![](images/48,1000,d_acc.png)![](images/48,1000,loss.png)
+  
+##### 2. Comparision of DANN. (epoch of 100)
+![](images/dann.png)
